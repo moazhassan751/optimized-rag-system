@@ -1,26 +1,41 @@
+# Core RAG System Dependencies
 langchain-community
 langchain-pinecone
 langchain-google-genai
+langchain-huggingface
+pinecone-client
 scikit-learn
 sentence-transformers
 numpy
-pytest
+python-dotenv
+
+# Document Processing
 PyPDF2
-asyncio
-torch
+
+# AI and ML
 transformers
 huggingface_hub
-nltk
-python-dotenv
-# Multimodal Audio Dependencies
+torch
+
+# Voice Assistant Dependencies  
 speechrecognition
 pyttsx3
-pyaudio
-librosa
-soundfile
-openai-whisper
-gTTS
-playsound
-wave
-webrtcvad
-faster-whisper
+gtts
+pygame
+
+# Web Interface
+streamlit
+pandas
+
+# Development and Testing
+pytest
+
+# Optional Audio Enhancement (comment out if not needed)
+# pyaudio
+# librosa
+# soundfile
+# openai-whisper
+# playsound
+# webrtcvad
+# faster-whisper
+# azure-cognitiveservices-speech
