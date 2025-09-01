@@ -1,0 +1,26 @@
+langchain-community
+langchain-pinecone
+langchain-google-genai
+scikit-learn
+sentence-transformers
+numpy
+pytest
+PyPDF2
+asyncio
+torch
+transformers
+huggingface_hub
+nltk
+python-dotenv
+# Multimodal Audio Dependencies
+speechrecognition
+pyttsx3
+pyaudio
+librosa
+soundfile
+openai-whisper
+gTTS
+playsound
+wave
+webrtcvad
+faster-whisper
